@@ -1,5 +1,4 @@
-﻿// complething the code
-using System;
+﻿using System;
 
 class Program
 {
