@@ -5,7 +5,7 @@ class Program
 	{
 		for (int i = 0; i <= 98; i++)
 		{
-			string hex = i.ToString("x");
+			string hex = Convert.ToString(i, 16);
 			Console.Write($"{i} = 0x{hex}\r\n");
 		}
 	}
