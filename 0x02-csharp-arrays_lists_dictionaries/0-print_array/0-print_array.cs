@@ -17,7 +17,11 @@ class Array
 			for (i = 0; i < size; i++)
 			{
 				arr[i] = i;
-				Console.Write($"{arr[i]} ");
+				Console.Write($"{arr[i]}");
+				if (i != size - 1)
+				{
+					Console.Write(' ');
+				}
 			}
 			Console.Write('\n');
 			return (arr);
