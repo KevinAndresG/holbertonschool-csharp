@@ -19,7 +19,7 @@ class MyStack
 			string[] i = new string[stackSize];
 			int j = 0;
 
-			Console.WriteLine($"Stack contains {search}: True");
+			Console.WriteLine($"Stack contains \"{search}\": True");
 			while (aStack.Count() > 0)
 			{
 				string words = aStack.Pop();
