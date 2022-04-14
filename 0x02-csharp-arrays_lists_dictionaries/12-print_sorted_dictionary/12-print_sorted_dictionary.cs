@@ -7,7 +7,7 @@ class Dictionary
 	{
 		foreach (KeyValuePair<string, string> newDict in myDict.OrderBy(i => i.Key))
 		{
-			Console.WriteLine($"{newDict.Key}: {newDict.Value}");
+			Console.WriteLine("{0}: {1}", newDict.Key, newDict.Value);
 		}
 	}
 }
