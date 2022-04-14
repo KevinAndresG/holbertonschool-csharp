@@ -5,6 +5,11 @@ class Array
 	public static int[] CreatePrint(int size)
 	{
 		int i;
+		if (size < 0)
+		{
+			Console.WriteLine("Size cannot be negative");
+			return null;
+		}
 		int[] arr = new int[size];
 
 		if (size > 0)
@@ -17,16 +22,12 @@ class Array
 			Console.Write('\n');
 			return (arr);
 		}
-		else if (size == 0)
+		else
 		{
 			Console.Write('\n');
 			return (arr);
 		}
-		else
-		{
-			Console.WriteLine("Size cannot be negative");
-			return null;
-		}
+
 
 	}
 }
