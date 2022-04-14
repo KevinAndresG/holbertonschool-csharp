@@ -32,12 +32,12 @@ class MyStack
 				aStack.Push(i[j - 1]);
 				j--;
 			}
-			aStack.Push(newItem);
 		}
 		else
 		{
-			Console.WriteLine($"Stack contains {search}: False");
+			Console.WriteLine($"Stack contains \"{search}\": False");
 		}
+		aStack.Push(newItem);
 		return (aStack);
 	}
 }
