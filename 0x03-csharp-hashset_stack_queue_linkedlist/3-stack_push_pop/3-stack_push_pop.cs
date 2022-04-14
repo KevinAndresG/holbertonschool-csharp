@@ -5,15 +5,19 @@ class MyStack
 {
 	public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
 	{
+		int stackSize = aStack.Count();
+		Console.WriteLine($"Number of items: {stackSize}");
+
 		if (aStack.Count() == 0)
 		{
 			Console.WriteLine("Stack is empty");
 		}
-		int stackSize = aStack.Count();
+		else
+		{
+			Console.WriteLine($"Top item: {aStack.Peek()}");
+		}
 		Stack<string> newStack = new Stack<string>();
 
-		Console.WriteLine($"Number of items: {stackSize}");
-		Console.WriteLine($"Top item: {aStack.Peek()}");
 		if (aStack.Contains(search))
 		{
 			string[] i = new string[stackSize];
