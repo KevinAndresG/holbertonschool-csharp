@@ -7,12 +7,16 @@ class List
 	{
 		try
 		{
-			int i = 0;
-			for (; i < n; i++)
+			if (n <= myList.Count)
 			{
-				Console.WriteLine(myList[i]);
+				int i = 0;
+				for (; i < n; i++)
+				{
+					Console.WriteLine(myList[i]);
+				}
+				return (i);
 			}
-			return (i);
+			throw new ArgumentOutOfRangeException("index parameter is out of range.");
 		}
 		catch (ArgumentOutOfRangeException)
 		{
