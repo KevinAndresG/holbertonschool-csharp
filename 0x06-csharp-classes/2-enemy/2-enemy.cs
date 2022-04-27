@@ -10,7 +10,7 @@ namespace Enemies
 		///<summary>set zombie's health in 0.</summary>
 		public Zombie()
 		{
-			this.health = 0;
+			health = 0;
 		}
 		///<summary>Check if valie is greater than 0.</summary>
 		public Zombie(int value)
