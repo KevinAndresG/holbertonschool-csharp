@@ -16,3 +16,4 @@
 /home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/0-add/main/obj/Debug/net6.0/main.pdb
 /home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/0-add/main/obj/Debug/net6.0/main.genruntimeconfig.cache
 /home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/0-add/main/obj/Debug/net6.0/ref/main.dll
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/0-add/main/bin/Debug/net6.0/MyMath.xml

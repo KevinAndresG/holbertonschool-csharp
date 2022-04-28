@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-dotnet new console -n 0-safe_list_print
-cd 0-safe_list_print
+dotnet new console -n 4-throw_exception_msg
+cd 4-throw_exception_msg
 dotnet build
