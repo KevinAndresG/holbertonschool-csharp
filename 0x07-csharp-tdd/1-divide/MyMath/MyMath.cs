@@ -2,8 +2,10 @@
 
 namespace MyMath
 {
+	///<sumary>methods to make some operations</sumary>
 	public class Matrix
 	{
+		///<Returns>Return a matrix with values divided</Returns>
 		public static int[,] Divide(int[,] matrix, int num)
 		{
 			if (matrix == null)

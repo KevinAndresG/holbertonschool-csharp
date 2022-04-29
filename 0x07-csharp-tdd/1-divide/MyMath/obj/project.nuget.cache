@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tIAD88XvOb+ulOsryJ1EFu47eyCcSuo3HYCzlElFwzHxxxtB06JOobTMnNRFpdBFMSJKFqCKRV6Tf5uT+ECD8Q==",
+  "dgSpecHash": "uWFPLSd21ux7bI6anvqCtgXarBGfF7V5Xh4MPRZ+ecl3RjvWILRSeXIhnt2CeX6xiWt+sYY7uaC6oo4NS7NtOg==",
   "success": true,
   "projectFilePath": "/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/MyMath.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/zattner/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/zattner/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
