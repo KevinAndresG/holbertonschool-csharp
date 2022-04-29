@@ -1,0 +1,12 @@
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/MyMath.csproj.AssemblyReference.cache
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/MyMath.AssemblyInfoInputs.cache
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/MyMath.AssemblyInfo.cs
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/MyMath.csproj.CoreCompileInputs.cache
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/bin/Debug/net6.0/MyMath.deps.json
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/bin/Debug/net6.0/MyMath.dll
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/bin/Debug/net6.0/MyMath.pdb
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/MyMath.dll
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/refint/MyMath.dll
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/MyMath.pdb
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x07-csharp-tdd/1-divide/MyMath/obj/Debug/net6.0/ref/MyMath.dll
