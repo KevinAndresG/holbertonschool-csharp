@@ -23,7 +23,6 @@ namespace MyMath
 						newMatrix[i, j] = matrix[i, j] / num;
 					}
 				}
-				Console.WriteLine(newMatrix.GetType());
 				return (newMatrix);
 			}
 			catch (DivideByZeroException)
