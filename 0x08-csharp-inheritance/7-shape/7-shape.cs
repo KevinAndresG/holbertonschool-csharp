@@ -39,8 +39,18 @@ class Rectangle : Shape
 			}
 			else
 			{
-				height= value;
+				height = value;
 			}
 		}
+	}
+	///<Returns>return the area of rectangle</Returns>
+	public new int Area()
+	{
+		return (width * height);
+	}
+	///<Returns>return the format of rectangle</Returns>
+	public override string ToString()
+	{
+		return ($"[Rectangle] {width} / {height}");
 	}
 }
