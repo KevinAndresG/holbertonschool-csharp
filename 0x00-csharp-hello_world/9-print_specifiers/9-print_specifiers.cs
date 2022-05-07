@@ -4,9 +4,8 @@ class Program
 {
 	static void Main(string[] args)
 	{
-		CultureInfo target = CultureInfo.CreateSpecificCulture("en-US.utf-8");
 		double percent = .7553;
 		double currency = -98765.4321;
-		Console.WriteLine($"Percent: {String.Format(target, "{0:P2}", percent)}\nCurrency: {String.Format(target, "{0:C2}", currency)}");
+		Console.WriteLine("Percent: {0}\nCurrency: ${1:N2}", percent.ToString("0.00%"), currency);
 	}
 }
