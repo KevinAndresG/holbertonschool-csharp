@@ -1,0 +1,15 @@
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.csproj.AssemblyReference.cache
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.GeneratedMSBuildEditorConfig.editorconfig
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.AssemblyInfoInputs.cache
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.AssemblyInfo.cs
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.csproj.CoreCompileInputs.cache
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net6.0/11-print_diagonal
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net6.0/11-print_diagonal.deps.json
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net6.0/11-print_diagonal.runtimeconfig.json
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net6.0/11-print_diagonal.dll
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/net6.0/11-print_diagonal.pdb
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.dll
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/refint/11-print_diagonal.dll
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.pdb
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/11-print_diagonal.genruntimeconfig.cache
+/home/zattner/Space/HolbertonAdvanced/HolbertonAdvanced_VR_AR/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/net6.0/ref/11-print_diagonal.dll
