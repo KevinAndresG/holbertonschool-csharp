@@ -10,12 +10,12 @@ class VectorMath
         if (vector.Length == 2)
         {
             // Logic for 2D Vector
-            return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2)));
+            return Math.Floor(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2)));
         }
-        if (vector.Length == 3)
+        else if (vector.Length == 3)
         {
             // Logic for 3D Vector
-            return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)));
+            return Math.Floor(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)));
         }
         return (-1);
     }
