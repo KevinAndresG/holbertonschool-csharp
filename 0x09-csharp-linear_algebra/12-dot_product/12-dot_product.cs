@@ -28,10 +28,4 @@ class VectorMath
         }
         return (-1);
     }
-    static void Main()
-    {
-        double[] vector1 = { 3, 5, 6 };
-        double[] vector2 = { 2, 4, 2 };
-        Console.WriteLine(DotProduct(vector1, vector2));
-    }
 }
