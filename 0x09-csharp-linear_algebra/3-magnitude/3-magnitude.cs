@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections;
+
 ///<summary>Provides the size of a Vector</summary>
-class VectorMtah
+class VectorMath
 {
     ///<Returns>the size of the vector 2D or 3D</Returns>
     public static double Magnitude(double[] vector)
