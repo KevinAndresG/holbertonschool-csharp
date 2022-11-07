@@ -1,0 +1,15 @@
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/bin/Debug/net6.0/0-queue
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/bin/Debug/net6.0/0-queue.deps.json
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/bin/Debug/net6.0/0-queue.runtimeconfig.json
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/bin/Debug/net6.0/0-queue.dll
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/bin/Debug/net6.0/0-queue.pdb
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.csproj.AssemblyReference.cache
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.AssemblyInfoInputs.cache
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.AssemblyInfo.cs
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.csproj.CoreCompileInputs.cache
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.dll
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/refint/0-queue.dll
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.pdb
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/0-queue.genruntimeconfig.cache
+/home/zattner/Space/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/net6.0/ref/0-queue.dll
