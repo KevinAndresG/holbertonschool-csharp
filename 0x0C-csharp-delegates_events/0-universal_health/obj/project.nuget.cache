@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "dQb0Zbg6OUvxoZOQ6EXgKh/CDXrKs+9+J1uloiKLItz/942IuWb3QnCxvs8skwFYGHJJdco6GNURGnrXHmWeNg==",
+  "dgSpecHash": "7GuADGC4TXxmK6IRigL6UC7h54tIJoSLveQTvQ/c59HityJP6hXBpzxLnZgSjRc3cbK4P/Ii2h4Gew+8YW5fxA==",
   "success": true,
   "projectFilePath": "/home/zattner/Space/holbertonschool-csharp/0x0C-csharp-delegates_events/0-universal_health/0-universal_health.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/zattner/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/home/zattner/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/home/zattner/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/home/zattner/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/home/zattner/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/home/zattner/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/home/zattner/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
