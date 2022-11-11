@@ -3,8 +3,11 @@
 ///<summary>Provide the player objects</summary>
 public class Player
 {
+    ///<summary>Field to define the name.</summary>
     private string name = "Player";
+    ///<summary>Field to define the maxHp.</summary>
     private float maxHp = 100f;
+    ///<summary>Field to define the hp.</summary>
     private float hp = 100f;
     ///<summary>Provide the constructor with the name argument</summary>
     public Player(string name)
