@@ -9,6 +9,20 @@ public class Player
     {
         this.name = name;
     }
+    public Player(float maxHp)
+    {
+        if (maxHp < 0f)
+        {
+            maxHp = this.maxHp;
+            this.hp = this.maxHp;
+            Console.WriteLine("maxHp must be greater than 0. maxHp set to 100f by default.");
+        }
+        else
+        {
+            this.maxHp = maxHp;
+            this.hp = maxHp;
+        }
+    }
     public Player(string name, float maxHp)
     {
         if (name != null)
