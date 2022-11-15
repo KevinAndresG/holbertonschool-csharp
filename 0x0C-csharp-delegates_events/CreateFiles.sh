@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-dotnet new console -n 0-universal_health
-cd 0-universal_health
+dotnet new console -n 2-validation
+cd 2-validation
 touch main.cs
