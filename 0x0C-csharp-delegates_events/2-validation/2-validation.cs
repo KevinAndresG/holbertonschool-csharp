@@ -1,24 +1,24 @@
 ﻿using System;
 
-/// <summary>Provide the player objects</summary>
+///<summary>Provide the player objects</summary>
 public class Player
 {
-    /// <summary>Field to define the name.</summary>
+    ///<summary>Field to define the name.</summary>
     private string name = "Player";
-    /// <summary>Field to define the maxHp.</summary>
+    ///<summary>Field to define the maxHp.</summary>
     private float maxHp = 100f;
-    /// <summary>Field to define the hp.</summary>
+    ///<summary>Field to define the hp.</summary>
     private float hp = 100f;
-    /// <summary>Provide the constructor with the name argument</summary>
+    ///<summary>Provide the constructor with the name argument</summary>
     public Player(string name)
     {
         this.name = name;
     }
-    /// <summary>Provide the empty constructor</summary>
+    ///<summary>Provide the empty constructor</summary>
     public Player()
     {
     }
-    /// <summary>Provide the constructor with the maxHp argument</summary>
+    ///<summary>Provide the constructor with the maxHp argument</summary>
     public Player(float maxHp)
     {
         if (maxHp < 0f)
@@ -33,7 +33,7 @@ public class Player
             this.hp = maxHp;
         }
     }
-    /// <summary>Provide the constructor with full arguments</summary>
+    ///<summary>Provide the constructor with full arguments</summary>
     public Player(string name, float maxHp)
     {
         if (maxHp < 0f)
@@ -49,12 +49,12 @@ public class Player
         }
         this.name = name;
     }
-    /// <summary>Prints the health and name of the player</summary>
+    ///<summary>Prints the health and name of the player</summary>
     public void PrintHealth()
     {
         Console.WriteLine("{0} has {1} / {2} health", this.name, this.hp, this.maxHp);
     }
-    /// <summary>create a delegate</summary>
+    ///<summary>create a delegate</summary>
     public delegate void CalculateHealth(float amount);
     ///<summary>substract the damage of the hp</summary>
     public void TakeDamage(float damage)
@@ -70,7 +70,7 @@ public class Player
             ValidateHP(newHp);
         }
     }
-    /// <summary>add the heal to the hp</summary>
+    ///<summary>add the heal to the hp</summary>
     public void HealDamage(float heal)
     {
         if (heal < 0)
@@ -84,14 +84,14 @@ public class Player
             ValidateHP(newHp);
         }
     }
-    /// <summary>add the heal to the hp</summary>
+    ///<summary>add the heal to the hp</summary>
     public void ValidateHP(float newHp)
     {
-        if (newHp < 0)
+        if (newHp < 0f)
         {
-            this.hp = 0;
+            this.hp = 0f;
         }
-        if (newHp > this.maxHp)
+        else if (newHp > this.maxHp)
         {
             this.hp = this.maxHp;
         }
